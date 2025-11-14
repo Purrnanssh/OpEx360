@@ -1,0 +1,15 @@
+__pycache__/
+.env
+venv/
+*.pyc
+.DS_Store
+data/sample_operations_log.csv
+data/cleaned_ops.csv
+.env
+.
+
+# If using Jupyter
+.ipynb_checkpoints/
+
+# Power BI pbix - often large
+*.pbix
