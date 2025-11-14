@@ -120,11 +120,6 @@ python3 src/analysis.py --input data/cleaned_ops.csv --output results/summary_me
 
 ---
 
-## Resume bullet (copy for CV)
-**OpEx360 — Operational Efficiency Dashboard:** Built a Python–SQL–Power BI operational analytics system that automated KPI extraction (SLA compliance, cost/transaction, cycle time) and revealed **12% cost-saving** and **15% faster workflow** opportunities using bottleneck and scenario analysis.
-
----
-
 ## License
 MIT — see `LICENSE`.
 
